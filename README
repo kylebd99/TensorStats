@@ -1,0 +1,5 @@
+To use this script, you'll need to install julia. Then, you should be able to run the following from the top directory.
+
+```
+julia --project=. scripts/diag_block_sparse.jl
+```
